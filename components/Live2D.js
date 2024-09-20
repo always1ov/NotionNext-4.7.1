@@ -35,9 +35,9 @@ export default function Live2D() {
   }, [theme])
 
   function handleClick() {
-    if (petSwitchTheme) {
-      switchTheme()
-    }
+    //if (petSwitchTheme) {
+    //  switchTheme()
+    //}
   }
 
   if (!showPet) {
