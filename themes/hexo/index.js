@@ -429,10 +429,10 @@ const LayoutTagIndex = props => {
  */
 const LayoutMemos = (props) => {
   const memoPageInfo = {
-    id: "9e6c78642def47bcbabe35f526307639", 
+    id: "1342d646b2e180729f6acfedd13116fc", 
     // 因为引入了评论互动，所以需要一个ID来对应加载页面评论，这里使用Notion这个菜单的pageID
     type: "Memos",
-    title: "我的说说",
+    title: "动态",
   };
   return  (
   <div className="w-full lg:hover:shadow rounded-md lg:rounded-md lg:px-2 lg:py-4 article">
