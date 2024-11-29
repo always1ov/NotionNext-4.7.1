@@ -47,7 +47,7 @@
 
 // Memos Start，第48行
 var memo = {
-    host: 'http://memos.unbeso.cn',  // 这里写你的Memos服务的域名
+    host: 'https://cdn.r90416552.nyat.app:17948',  // 这里写你的Memos服务的域名
     limit: '10',    // 默认显示的memos数量
     creatorId: '1',   // 你的帐号ID，在Memos后台-设置-成员-成员列表，可以看到你的帐号对应的ID
     domId: '#memos',  // JS默认读取并修改的DOMId，将从页面读取这个DOM加载动态，这里不做修改，和BlogMemos中的对应。
