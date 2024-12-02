@@ -51,8 +51,8 @@ var memo = {
     limit: '10',    // 默认显示的memos数量
     creatorId: '1',   // 你的帐号ID，在Memos后台-设置-成员-成员列表，可以看到你的帐号对应的ID
     domId: '#memos',  // JS默认读取并修改的DOMId，将从页面读取这个DOM加载动态，这里不做修改，和BlogMemos中的对应。
-    username: 'always1ov',  // 修改为自己的
-    name: 'CCC'   //修改为自己的，页面会在每一条说说显示为  '用户名' @ '博客名'
+    username: 'Ada',  // 修改为自己的
+    name: 'ccc'   //修改为自己的，页面会在每一条说说显示为  '用户名' @ '博客名'
 }
 if (typeof (memos) !== "undefined") {
     for (var key in memos) {
